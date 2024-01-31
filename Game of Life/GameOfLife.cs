@@ -10,6 +10,8 @@ namespace Game_of_Life
     internal class GameEngine
     {
         //Тест для работы обновления
+        //Ещё одна
+
         private bool[,] field;
 
         private readonly int rows;
